@@ -1,0 +1,23 @@
+{
+  "name": "node-with-ts",
+  "version": "1.0.0",
+  "description": "a base project having node and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olly-it/node-with-ts.git"
+  },
+  "author": "olly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olly-it/node-with-ts/issues"
+  },
+  "homepage": "https://github.com/olly-it/node-with-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
